@@ -21,7 +21,7 @@ class _CalculatorState extends State<Calculator> {
     'C',
     '',
     '%',
-    'DEL',
+    'DELL',
     '7',
     '8',
     '9',
